@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/balancingbeads-react/static/css/main.31d6cfe0.css",
+    "main.js": "/balancingbeads-react/static/js/main.d0209a59.js",
+    "static/js/453.3784adae.chunk.js": "/balancingbeads-react/static/js/453.3784adae.chunk.js",
+    "index.html": "/balancingbeads-react/index.html",
+    "main.d0209a59.js.map": "/balancingbeads-react/static/js/main.d0209a59.js.map",
+    "453.3784adae.chunk.js.map": "/balancingbeads-react/static/js/453.3784adae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d0209a59.js"
+  ]
+}
